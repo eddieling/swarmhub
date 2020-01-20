@@ -401,7 +401,7 @@
         <!-- NEW CODE -->
         <div class="modal" v-bind:class="{ 'is-active': isEditSimUsersModalActive }">
           <div class="modal-background"></div>
-          <div class="modal-content">
+          <div class="modal-content" style="width: 450px">
             <div class="box">
               <h1 class="title">Edit locust config</h1>
               <div class="field">
